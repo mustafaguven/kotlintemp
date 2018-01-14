@@ -1,0 +1,78 @@
+<resources>
+
+    <!-- Optimised dimension for 10" tablets -->
+    <!-- http://developer.android.com/guide/practices/screens_support.html#DeclaringTabletLayouts -->
+    <!-- 720dp: a 10” tablet -->
+
+    <!-- padding -->
+    <dimen name="padding_xsmall">8dp</dimen>
+    <dimen name="padding_small">16dp</dimen>
+    <dimen name="padding_medium">32dp</dimen>
+    <dimen name="padding_large">48dp</dimen>
+    <dimen name="padding_xlarge">64dp</dimen>
+    <dimen name="walk_through_logo_padding">96dp</dimen>
+    <dimen name="kartus_card_padding">72dp</dimen>
+    <dimen name="profile_progress_padding">12dp</dimen>
+    <dimen name="landing_profile_layer_padding">32dp</dimen>
+
+    <!-- text_size -->
+    <dimen name="text_size_small">24sp</dimen>
+    <dimen name="text_size_medium">32sp</dimen>
+    <dimen name="text_size_large">40sp</dimen>
+    <dimen name="text_size_xlarge">48sp</dimen>
+    <dimen name="text_size_card_no">44sp</dimen>
+
+    <!-- square objects dimensions -->
+    <dimen name="progress_coin_size">160dp</dimen>
+    <dimen name="progress_line_size">240dp</dimen>
+    <dimen name="indicator_size">20dp</dimen>
+    <dimen name="coin_size">240dp</dimen>
+    <dimen name="landing_segment_icon_size">46dp</dimen>
+    <dimen name="collection_item_arrow">70dp</dimen>
+    <dimen name="web_view_icon_size">28dp</dimen>
+    <dimen name="lock_icon_size">36dp</dimen>
+    <dimen name="numpad_bg_size">112dp</dimen>
+    <dimen name="shop_image_size">208dp</dimen>
+    <dimen name="badge_size">40dp</dimen>
+
+    <!-- other objects -->
+    <dimen name="kartus_logo_width">336dp</dimen>
+    <dimen name="kartus_logo_height">64dp</dimen>
+    <dimen name="connect_card_no_width">382dp</dimen>
+    <dimen name="connect_card_no_height">228dp</dimen>
+    <dimen name="connect_card_pin_width">256dp</dimen>
+    <dimen name="connect_card_pin_height">230dp</dimen>
+    <dimen name="connect_card_invalid_width">216dp</dimen>
+    <dimen name="connect_card_invalid_height">188dp</dimen>
+    <dimen name="profile_card_no_holder_width">574dp</dimen>
+    <dimen name="profile_card_no_holder_height">116dp</dimen>
+    <dimen name="kartus_card_width">520dp</dimen>
+    <dimen name="kartus_card_height">828dp</dimen>
+    <dimen name="kartus_card_arrow_width">38dp</dimen>
+    <dimen name="kartus_card_arrow_height">16dp</dimen>
+    <dimen name="kartus_card_rotate_width">74dp</dimen>
+    <dimen name="kartus_card_rotate_height">52dp</dimen>
+    <dimen name="form_arrow_width">16dp</dimen>
+    <dimen name="form_arrow_height">26dp</dimen>
+    <dimen name="no_message_icon_width">106dp</dimen>
+    <dimen name="no_message_icon_height">72dp</dimen>
+
+    <!-- config fields -->
+    <dimen name="indicator_radius">9dp</dimen>
+    <dimen name="indicator_stroke">3dp</dimen>
+    <dimen name="centered_holder_width">560dp</dimen>
+    <dimen name="form_item_info_width">240dp</dimen>
+    <dimen name="settings_form_item_info_width">320dp</dimen>
+    <dimen name="landing_kartus_holder_height">100dp</dimen>
+    <dimen name="edit_text_stroke">2dp</dimen>
+    <dimen name="edit_text_radius">2dp</dimen>
+    <dimen name="line_button_radius">6dp</dimen>
+    <dimen name="divider_size">2dp</dimen>
+    <dimen name="profile_image_border_width">2dp</dimen>
+    <dimen name="collection_skew_diff">50dp</dimen>
+    <dimen name="closest_item_distance_width">140dp</dimen>
+    <dimen name="message_item_date_width">140dp</dimen>
+    <dimen name="shop_detail_visible_map_height">300dp</dimen>
+    <dimen name="edit_text_height">112dp</dimen>
+
+</resources>

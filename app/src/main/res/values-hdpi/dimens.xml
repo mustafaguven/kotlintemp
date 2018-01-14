@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="kartus_card_padding">24dp</dimen>
+    <dimen name="landing_profile_layer_padding">8dp</dimen>
+    <dimen name="coin_size">90dp</dimen>
+
+</resources>

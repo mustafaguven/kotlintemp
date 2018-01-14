@@ -1,0 +1,8 @@
+<resources>
+  <string name="app_name">Template App</string>
+
+
+
+  <string name="default_progress_message">Lütfen bekleyin</string>
+
+</resources>

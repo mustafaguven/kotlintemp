@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <color name="colorPrimary">#2562A8</color>
+  <color name="colorPrimaryDark">@color/colorPrimary</color>
+  <color name="colorPrimaryDim">#0e2536</color>
+  <color name="colorAccent">#227BBF</color>
+  <color name="black">#000000</color>
+  <color name="white">#ffffff</color>
+
+  <color name="divider">#C8C7CC</color>
+  <color name="edit_text_stroke">@color/divider</color>
+  <color name="default_text">#4D4D4D</color>
+  <color name="light_text">#ADAEAF</color>
+  <color name="blue_button_text">@color/colorPrimary</color>
+  <color name="bright_blue_text">#1CB4EF</color>
+  <color name="kartus_card_text">#024B80</color>
+  <color name="indicator_selection">#003460</color>
+  <color name="collection_info_layer">#804396D6</color>
+  <color name="collection_info_layer_selected">#994396D6</color>
+  <color name="numpad_selection">#4797d4</color>
+  <color name="badge_bg">#DF1A22</color>
+  <color name="read_notification_bg">#EEEEEE</color>
+  <color name="transparent">@android:color/transparent</color>
+
+</resources>

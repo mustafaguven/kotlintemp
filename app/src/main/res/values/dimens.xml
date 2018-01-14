@@ -1,0 +1,73 @@
+<resources>
+
+    <!-- padding -->
+    <dimen name="padding_xsmall">4dp</dimen>
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">16dp</dimen>
+    <dimen name="padding_large">24dp</dimen>
+    <dimen name="padding_xlarge">32dp</dimen>
+    <dimen name="walk_through_logo_padding">48dp</dimen>
+    <dimen name="kartus_card_padding">36dp</dimen>
+    <dimen name="profile_progress_padding">6dp</dimen>
+    <dimen name="landing_profile_layer_padding">16dp</dimen>
+
+    <!-- text_size -->
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">20sp</dimen>
+    <dimen name="text_size_xlarge">24sp</dimen>
+    <dimen name="text_size_card_no">22sp</dimen>
+
+    <!-- square objects dimensions -->
+    <dimen name="progress_coin_size">80dp</dimen>   <!-- 60dp -->
+    <dimen name="progress_line_size">120dp</dimen>  <!-- 90dp -->
+    <dimen name="coin_size">120dp</dimen>
+    <dimen name="landing_segment_icon_size">23dp</dimen>
+    <dimen name="collection_item_arrow">35dp</dimen>
+    <dimen name="web_view_icon_size">14dp</dimen>
+    <dimen name="lock_icon_size">18dp</dimen>
+    <dimen name="numpad_bg_size">56dp</dimen> <!-- 69dp in design, but it is too much! -->
+    <dimen name="shop_image_size">104dp</dimen>
+    <dimen name="badge_size">20dp</dimen>
+
+    <!-- other objects -->
+    <dimen name="kartus_logo_width">168dp</dimen>
+    <dimen name="kartus_logo_height">32dp</dimen>
+    <dimen name="connect_card_no_width">191dp</dimen>
+    <dimen name="connect_card_no_height">114dp</dimen>
+    <dimen name="connect_card_pin_width">128dp</dimen>
+    <dimen name="connect_card_pin_height">115dp</dimen>
+    <dimen name="connect_card_invalid_width">108dp</dimen>
+    <dimen name="connect_card_invalid_height">94dp</dimen>
+    <dimen name="profile_card_no_holder_width">287dp</dimen>
+    <dimen name="profile_card_no_holder_height">58dp</dimen>
+    <dimen name="kartus_card_width">260dp</dimen>
+    <dimen name="kartus_card_height">414dp</dimen>
+    <dimen name="kartus_card_arrow_width">19dp</dimen>
+    <dimen name="kartus_card_arrow_height">8dp</dimen>
+    <dimen name="kartus_card_rotate_width">37dp</dimen>
+    <dimen name="kartus_card_rotate_height">26dp</dimen>
+    <dimen name="form_arrow_width">8dp</dimen>
+    <dimen name="form_arrow_height">13dp</dimen>
+    <dimen name="no_message_icon_width">53dp</dimen>
+    <dimen name="no_message_icon_height">36dp</dimen>
+
+    <!-- config fields -->
+    <dimen name="indicator_radius">4dp</dimen>
+    <dimen name="indicator_stroke">1dp</dimen>
+    <dimen name="centered_holder_width">280dp</dimen>
+    <dimen name="form_item_info_width">120dp</dimen>
+    <dimen name="settings_form_item_info_width">160dp</dimen>
+    <dimen name="landing_kartus_holder_height">50dp</dimen>
+    <dimen name="edit_text_stroke">1dp</dimen>
+    <dimen name="edit_text_radius">1dp</dimen>
+    <dimen name="line_button_radius">3dp</dimen>
+    <dimen name="divider_size">1dp</dimen>
+    <dimen name="profile_image_border_width">1dp</dimen>
+    <dimen name="collection_skew_diff">25dp</dimen>
+    <dimen name="closest_item_distance_width">70dp</dimen>
+    <dimen name="message_item_date_width">70dp</dimen>
+    <dimen name="shop_detail_visible_map_height">150dp</dimen>
+    <dimen name="edit_text_height">56dp</dimen>
+
+</resources>

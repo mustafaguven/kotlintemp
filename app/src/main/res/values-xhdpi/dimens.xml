@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Because we override these dimens in values-hdpi folder, we have to override here as well.
+         Otherwise it use those dimens in values-hdpi instead of the ones in values
+         when there is no corresponding values folder in project -->
+    <dimen name="kartus_card_padding">36dp</dimen>
+    <dimen name="landing_profile_layer_padding">16dp</dimen>
+    <dimen name="coin_size">120dp</dimen>
+
+</resources>
