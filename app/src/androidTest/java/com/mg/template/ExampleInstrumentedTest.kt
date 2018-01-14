@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     // Context of the app under test.
     val appContext = InstrumentationRegistry.getTargetContext()
 
-    assertEquals("com.mavi.kartus", appContext.packageName)
+    assertEquals("com.abc", appContext.packageName)
   }
 }

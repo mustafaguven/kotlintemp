@@ -17,7 +17,7 @@ android {
   buildToolsVersion "27.0.1"
 
   defaultConfig {
-    applicationId "com.mavi.kartus"
+    applicationId "com.mg.template"
     minSdkVersion 16
     targetSdkVersion 27
     versionCode getAppVersionCode()
